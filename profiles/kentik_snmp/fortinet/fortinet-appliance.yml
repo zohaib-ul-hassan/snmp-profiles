@@ -4,6 +4,7 @@
 extends:
   - if-mib.yml
   - system-mib.yml
+  - snmp-sysuptime.yml
 
 provider: kentik-appliance
 
