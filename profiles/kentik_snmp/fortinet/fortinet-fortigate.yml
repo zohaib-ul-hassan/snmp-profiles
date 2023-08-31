@@ -4,6 +4,7 @@ extends:
   - system-mib.yml
   - if-mib.yml
   - bgp4-mib.yml
+  - snmp-sysuptime.yml
 
 provider: kentik-firewall
 
